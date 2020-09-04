@@ -5,10 +5,10 @@ import Task from './Task';
 import { connect } from 'react-redux';
 import { archiveTask, pinTask} from '../lib/redux';
 
-export function PureTaskList({ loading, tasks, onPinTask, onArchiveTastk}) {
+export function PureTaskList({ loading, tasks, onPinTask, onArchiveTask}) {
   const events = {
     onPinTask,
-    onArchiveTastk
+    onArchiveTask
   };
 
   const LoadingRow = (
