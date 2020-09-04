@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Page: click [here](https://5f5276bb6bd09f0022f69556-ypybjuxnqx.chromatic.com/?path=/story/example-introduction--page)
+
 ## Available Scripts
 
 In the project directory, you can run:
